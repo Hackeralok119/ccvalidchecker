@@ -27,7 +27,7 @@ gg = colorama.Fore.LIGHTCYAN_EX
 
 
 def logo():
-    figlet = Figlet(font="standard").renderText("ALOK")
+    figlet = Figlet(font="standard").renderText("HACKER ALOK")
     return (gn + figlet)
 print (logo())
 print (bl + "[-] Powered by WHITE  Security Team ")
