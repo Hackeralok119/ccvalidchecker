@@ -27,11 +27,11 @@ gg = colorama.Fore.LIGHTCYAN_EX
 
 
 def logo():
-    figlet = Figlet(font="standard").renderText("Fox CC")
+    figlet = Figlet(font="standard").renderText("ALOK")
     return (gn + figlet)
 print (logo())
-print (bl + "[-] Powered by Black Fox Security Team ")
-print (gn + "[+] Made By Maximum Radikali")
+print (bl + "[-] Powered by WHITE  Security Team ")
+print (gn + "[+] Made By HACKER ALOK")
 print (cy + "[=] Fox CC Tools Version : 1.1")
 
 opr = input (mag + "\n[x] 1) Generate single valid cc\n[x] 2) Generate multi valid cc (generate cc list)\n[x] 3) CC validator\n[x] 4) Generate Multi Bin Number \n\n[^] Please Enter an option :  ")
