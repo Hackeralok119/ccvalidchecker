@@ -91,4 +91,4 @@ elif opr == "4":
     print (rd)
     bin.bin_generator(number , round)
     print ("Saved File as bin_generated.txt !")
-    print (mag + "[$] Telegram Channel : @BlackFoxSecurityTeam" + cv)
+    print (mag + "[$] Telegram Channel : @Kinghacksza" + cv)
